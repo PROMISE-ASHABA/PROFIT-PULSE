@@ -93,7 +93,3 @@ If we continue this project, we can:
 Allow product names with spaces (like "Rice bag") using `nextLine()`
  Stop the program from crashing when a user types letters instead of numbers
  Compare several products at once.
-
-This is a student project made for learning purposes.
-
-**Keep hustling smart! 💪*
