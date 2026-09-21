@@ -96,4 +96,4 @@ Allow product names with spaces (like "Rice bag") using `nextLine()`
 
 This is a student project made for learning purposes.
 
-**Keep hustling smart! 💪**
+**Keep hustling smart! 💪*
